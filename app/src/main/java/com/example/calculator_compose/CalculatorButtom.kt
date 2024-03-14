@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.sp
 
 
 @Composable
-fun CalculatorButtom(
+fun CalculatorButton(
 
     symbole:String,
     modifier: Modifier,
